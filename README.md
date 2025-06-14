@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuj</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+MongoDB;  Obsessed+with+clean+architecture+%F0%9F%AA%9B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+MongoDB;Clean+Architecture+Enthusiast+%F0%9F%AA%9B" alt="Typing SVG" />
 </p>
 
 ---
