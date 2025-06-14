@@ -15,7 +15,6 @@
 ---
 
 ### 🚀 Tech Stack  
-```bash
 ☕ Java | Spring Boot | JPA | MongoDB | PostgreSQL  
 ⚛️ React.js | Vite | Tailwind CSS | Shadcn | TypeScript  
 🔐 JWT Auth | OAuth | Spring Security  
@@ -23,11 +22,10 @@
 📦 Docker | CI/CD (GitHub Actions)  
 📁 REST APIs | MVC | Clean Code | Domain-Driven Design
 
-
+### 📂 Featured Projects
 <p align="center"> <a href="https://github.com/manuj-chadha/email-reply-assistant"> <img src="https://img.shields.io/badge/Email%20Reply%20Assistant-%23007396.svg?&style=for-the-badge&logo=maildotru&logoColor=white" /> </a> <a href="https://github.com/manuj-chadha/weather-dashboard"> <img src="https://img.shields.io/badge/Weather%20App-%23FFA500.svg?&style=for-the-badge&logo=cloud&logoColor=white" /> </a> <a href="https://github.com/manuj-chadha/journal-api"> <img src="https://img.shields.io/badge/Journal%20API-%234caf50.svg?&style=for-the-badge&logo=spring&logoColor=white" /> </a> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark" alt="GitHub Stats" width="47%" /> <img src="https://streak-stats.demolab.com?user=your-username&theme=github-dark-blue" alt="GitHub Streak" width="47%" /> </p>
-
+### 📫 Let's Connect
 <p align="center"> <a href="mailto:manuj@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/manuj"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/manuj_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://manuj-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
 
 
