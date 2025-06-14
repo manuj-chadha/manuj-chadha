@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuj</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+MongoDB;Obsessed+with+clean+architecture+%F0%9F%AA%9B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Developer;Spring+Boot+%7C+React+%7C+MongoDB;  Obsessed+with+clean+architecture+%F0%9F%AA%9B" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,6 +26,6 @@
 <p align="center"> <a href="https://github.com/manuj-chadha/email-reply-assistant"> <img src="https://img.shields.io/badge/Email%20Reply%20Assistant-%23007396.svg?&style=for-the-badge&logo=maildotru&logoColor=white" /> </a> <a href="https://github.com/manuj-chadha/weather-dashboard"> <img src="https://img.shields.io/badge/Weather%20App-%23FFA500.svg?&style=for-the-badge&logo=cloud&logoColor=white" /> </a> <a href="https://github.com/manuj-chadha/journal-api"> <img src="https://img.shields.io/badge/Journal%20API-%234caf50.svg?&style=for-the-badge&logo=spring&logoColor=white" /> </a> </p>
 
 ### 📫 Let's Connect
-<p align="center"> <a href="mailto:manuj@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/manuj"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/manuj_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://manuj-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
+<p align="center"> <a href="mailto:manujchadha7777@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/manuj-chadha"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://x.com/manuj_7777"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://manuj-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white" /></a> </p>
 
 
